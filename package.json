@@ -1,5 +1,5 @@
 {
-  "name": "@bibek_magar/bikram-sambat-converter",
+  "name": "bikram-sambat-converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
