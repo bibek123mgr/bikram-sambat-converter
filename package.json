@@ -10,6 +10,10 @@
   "author": "Bibek Kumar Bakabal",
   "license": "MIT",
   "description": "Convert dates between Gregorian (AD) and Bikram Sambat (BS) calendars with Nepali language support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibek123mgr/bikram-sambat-converter.git"
+  },
   "keywords": [
     "bikram-sambat",
     "nepali-calendar",
