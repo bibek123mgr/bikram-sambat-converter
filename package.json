@@ -1,0 +1,32 @@
+{
+  "name": "bikram-sambat-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "nodemon index.js"
+  },
+  "author": "Bibek Kumar Bakabal",
+  "license": "MIT",
+  "description": "Convert dates between Gregorian (AD) and Bikram Sambat (BS) calendars with Nepali language support",
+  "keywords": [
+    "bikram-sambat",
+    "nepali-calendar",
+    "date-converter",
+    "nepali-date",
+    "ad-to-bs",
+    "bs-to-ad",
+    "nepali",
+    "calendar",
+    "nepal",
+    "date-conversion",
+    "gregorian",
+    "bikram-sambat-converter",
+    "nepali-date-converter",
+    "date-utility"
+  ],
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

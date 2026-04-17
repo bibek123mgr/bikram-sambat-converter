@@ -43,3 +43,32 @@
 ```bash
 npm install nepali-date-converter
 ```
+
+## 🚀 How to Use
+
+```js
+import Calender from "nepali-date-converter";
+
+// AD → BS
+const let= Calender.AdToBs("2032-04-17");
+// {
+//   date: '2089-02-05',
+//   date_np: '२०८९-०२-०५',
+//   month_eng: 'फेब्रुअरी',
+//   month_nep: 'February',
+//   day_eng: 'शुक्रबार',
+//   day_nep: 'Friday'
+// }
+
+// BS → AD
+const let Calender.BsToAd("2090-01-01");
+
+// {
+//   date: '2013-03-15',
+//   date_np: '२०१३-०३-१५',
+//   month_eng: 'Ashadh',
+//   month_nep: 'असार',
+//   day_eng: 'सोमबार',
+//   day_nep: 'Monday'
+// }
+```
