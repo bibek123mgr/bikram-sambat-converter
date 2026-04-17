@@ -49,8 +49,10 @@ npm install nepali-date-converter
 ```js
 import Calender from "nepali-date-converter";
 
+
+
 // AD → BS
-const let= Calender.AdToBs("2032-04-17");
+let dateObjNep= Calender.AdToBs("2032-04-17");
 // {
 //   date: '2089-02-05',
 //   date_np: '२०८९-०२-०५',
@@ -61,7 +63,7 @@ const let= Calender.AdToBs("2032-04-17");
 // }
 
 // BS → AD
-const let Calender.BsToAd("2090-01-01");
+const dateObjEng Calender.BsToAd("2090-01-01");
 
 // {
 //   date: '2013-03-15',
