@@ -1,5 +1,5 @@
 {
-  "name": "bikram-sambat-converter",
+  "name": "@bibek_magar/bikram-sambat-converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,7 @@
   "description": "Convert dates between Gregorian (AD) and Bikram Sambat (BS) calendars with Nepali language support",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bibek123mgr/bikram-sambat-converter.git"
+    "url": "git+https://github.com/bibek123mgr/bikram-sambat-converter.git"
   },
   "keywords": [
     "bikram-sambat",
